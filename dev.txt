@@ -1,1 +1,1 @@
-dev text conflict1.
+dev text conflict1, for conflict
