@@ -1,2 +1,10 @@
 conflict1.
+<<<<<<< HEAD
 conflict2
+=======
+conflict2
+
+
+
+conflict3
+>>>>>>> f90c491 (rebase conflict)
