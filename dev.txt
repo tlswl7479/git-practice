@@ -1,1 +1,1 @@
-dev text.
+dev text conflict.
